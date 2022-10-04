@@ -1,79 +1,78 @@
 ---
 layout: post
-title: Schedule and access
-subtitle: Register free for zoom link
+title: Sample blog post
+subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-# tags: [ecrea]
-comments: false
---- 
-## Schedule
-
-10.30 **Reception** and opening words
-
-
-1.       **Philosophy in institutions, philosophy of institutions** — 10.40 – 12.10 CET
-
-
-Discussion openers: 
-
-
-10.40 – 11.00. Kęstas Kirtiklis, Vilnius University. “What counts as quality in philosophy (of communication)” 
-
-
-11.00 - 11.20. Barna Kovács, Sapientia Hungarian University of Transylvania. “Manipulation - mediation – meditation”
-
-
-11.20 - 12.10. Debate
-
-
-2.       **In Search for the Fields of Impact** — 13.30 – 15.00 CET
-
-
-Discussion openers: 
-
-
-13.30 - 13.50. Peter Kastberg, Aalborg University. “Giving constitutive communication a gestalt: Modelling the Terra Firma of dialogical communication”
-
-
-13.50 - 14.10. Manuel Bogalheiro, CICANT. “Communication beyond representation and the epistemology of the non-human turn”
-
-
-14.10 – 15.00. Debate
-
-
-3.      **Philosophy of Communication beyond the “parent disciplines”** — 15.15 – 16.45 CET 
-
-
-Discussion openers:
-
-
-15.15 – 15.35. José Gomes Pinto, CICANT. “Rhetorics and Communication: is there any cross possibilities?”
-
-
-15.35 – 15.55. Johan Siebers, Middlesex University. “Philosophy of Communication. Rhetoric, Linguistics”
-
-
-15.55 – 16.45. Debate.
-
-
-16.45 — 17.00. Closing remarks and business matters
-
-
-
+tags: [test]
+comments: true
 ---
 
+This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-Register here to get a zoom link: [Google Forms](https://forms.gle/EnFbRLEA5t94eAiaA)
+**Here is some bold text**
+
+## Here is a secondary heading
+
+Here's a useless table:
+
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
 
 
----
-Event Zoom Address: To be sent by the end of Oct. 6th (or when provided)
+How about a yummy crepe?
 
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
----
-Contact us at [joana.bicacro@ulusofona.pt](mailto:joana.bicacro@ulusofona.pt) or [manuel.bogalheiro@ulp.pt](mailto:manuel.bogalheiro@ulp.pt) 
+It can also be centered!
 
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
----
-Programme at: [https://tinyurl.com/philcom2022](https://tinyurl.com/philcom2022)
+Here's a code chunk:
+
+~~~
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+~~~
+
+And here is the same code with syntax highlighting:
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
+And here is the same code yet again but with line numbers:
+
+{% highlight javascript linenos %}
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+{% endhighlight %}
+
+## Boxes
+You can add notification, warning and error boxes like this:
+
+### Notification
+
+{: .box-note}
+**Note:** This is a notification box.
+
+### Warning
+
+{: .box-warning}
+**Warning:** This is a warning box.
+
+### Error
+
+{: .box-error}
+**Error:** This is an error box.
