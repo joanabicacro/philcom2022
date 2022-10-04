@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ECREA Pre-conference 
+title: Pre-conference 
 subtitle: ONLINE, OCTOBER 7TH, 2022
 ---
 
@@ -16,19 +16,13 @@ In this one-day event we do not aim at the presentation of mature research, but 
 These 3 one hour and a half sessions will all start with brief formal discussion openers by selected members which will form the basis of a conversation on each topic.
 
 
-1.       **Philosophy in institutions, philosophy of institutions**
-
-This session is devoted to a conversation about the section itself and how it is developing. Why do we need the institutionalization of the philosophy of communication, what forms may it take in the future? Here we will look at what the section can do for early career researchers, how we could enliven exchange within the section and cooperation with other sections.
+1.       **Philosophy in institutions, philosophy of institutions**. This session is devoted to a conversation about the section itself and how it is developing. Why do we need the institutionalization of the philosophy of communication, what forms may it take in the future? Here we will look at what the section can do for early career researchers, how we could enliven exchange within the section and cooperation with other sections.
 
 
-2.       **In Search for the Fields of Impact**
-
-What impact can philosophy (of communication) have on the world outside of academia? What are the big issues of the day and what is the contribution philosophy of communication can make? What are the topics and questions, or even events philosophy of communication has not considered yet, but definitely should?
+2.       **In Search for the Fields of Impact**. What impact can philosophy (of communication) have on the world outside of academia? What are the big issues of the day and what is the contribution philosophy of communication can make? What are the topics and questions, or even events philosophy of communication has not considered yet, but definitely should?
 
 
-3.       **Philosophy of Communication beyond the “parent disciplines”**
-
-How do we see its place in both institutionalized disciplines – philosophy and communication? Should it reach out for dialogue with other disciplines – e.g. linguistics, literary or art studies? What forms do these collaborations take or may take?
+3.       **Philosophy of Communication beyond the “parent disciplines”**. How do we see its place in both institutionalized disciplines – philosophy and communication? Should it reach out for dialogue with other disciplines – e.g. linguistics, literary or art studies? What forms do these collaborations take or may take?
 
 
 
