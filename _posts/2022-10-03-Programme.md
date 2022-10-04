@@ -3,7 +3,7 @@ layout: post
 title: Programme
 subtitle: October 7th 2022
 cover-img: assets/img/pexels-tara-winstead-8386434 copy-square.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: assets/img/pexels-tara-winstead-8386434 copy-square.jpg
 share-img: assets/img/pexels-tara-winstead-8386434 copy-square.jpg
 tags: [programme, team]
 ---
