@@ -7,6 +7,9 @@ comments: false
 ---
 
 
+Register here to get a zoom link: [Google Forms](https://forms.gle/EnFbRLEA5t94eAiaA)
+
+
 
 ## Schedule
 
