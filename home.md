@@ -26,19 +26,6 @@ These 3 one hour and a half sessions will all start with brief formal discussion
 
 
 
-## Organizing Committee
-
-Joana Bicacro, CICANT
-
-Eli Dresner, Tel Aviv University
-
-Kęstas Kirtiklis, Vilnius University
-
-Johan Siebers, Middlesex University
-
-Manuel Bogalheiro, CICANT
-
-
  
 ## Schedule
 
@@ -92,6 +79,22 @@ Discussion openers:
 
 16.45 — 17.00. Closing remarks and business matters
 
+
+
+---
+
+
+## Organizing Committee
+
+Joana Bicacro, CICANT
+
+Eli Dresner, Tel Aviv University
+
+Kęstas Kirtiklis, Vilnius University
+
+Johan Siebers, Middlesex University
+
+Manuel Bogalheiro, CICANT
 
 
 ---
