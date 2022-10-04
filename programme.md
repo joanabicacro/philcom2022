@@ -91,11 +91,11 @@ Discussion openers:
 
 ## Organizing Committee
 
-Joana Bicacro, CICANT
+Kęstas Kirtiklis, Vilnius University
 
 Eli Dresner, Tel Aviv University
 
-Kęstas Kirtiklis, Vilnius University
+Joana Bicacro, CICANT
 
 Johan Siebers, Middlesex University
 
