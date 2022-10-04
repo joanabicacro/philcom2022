@@ -1,6 +1,6 @@
 ---
-layout: New Perspectives and Directions in Philosophy of Communication
-title: Ecrea Philosophy of Communication section — ONLINE pre-conferencE
+layout: page
+title: New Perspectives and Directions in Philosophy of Communication — ECREA Philosophy of Communication section Pre-conference 
 subtitle: ONLINE, OCTOBER 7TH, 2022
 ---
 
