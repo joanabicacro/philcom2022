@@ -1,6 +1,6 @@
 ---
 layout: page
-title: - 
+title: ECREA Pre-conference 
 subtitle: ONLINE, OCTOBER 7TH, 2022
 ---
 
@@ -8,7 +8,7 @@ subtitle: ONLINE, OCTOBER 7TH, 2022
 ## New Perspectives and Directions in Philosophy of Communication
 
 
-### ECREA Philosophy of Communication section Pre-conference
+### ECREA Philosophy of Communication Section Pre-conference
 
 
 Philosophy is perhaps the most reflective of all academic disciplines. Philosophers keep asking questions not only about the world, our knowledge of it or the ways we act or should act in it. Rather, the question what philosophy is and what is its place in the world is also a very important philosophical question by itself.
