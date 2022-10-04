@@ -2,7 +2,7 @@
 layout: post
 title: Schedule and Access
 subtitle: Register for zoom link
-tags: [zoom, link, access, schedule, sessions, ecrea, philosophy, rethoric]
+tags: [zoom, link, access, schedule, sessions, ecrea, philosophy, rhetoric, communication]
 comments: false
 ---
 
