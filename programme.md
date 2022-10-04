@@ -116,7 +116,7 @@ Contact us at [joana.bicacro@ulusofona.pt](mailto:joana.bicacro@ulusofona.pt) or
 
 
 ---
-Programme at: [https://tinyurl.com/philcom2022](https://tinyurl.com/philcom2022)
+Programme at: [https://tinyurl.com/ecreaphilcom2022](https://tinyurl.com/ecreaphilcom2022)
 
 
 
