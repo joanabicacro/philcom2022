@@ -13,6 +13,8 @@ share-img: assets/img/pexels-tara-winstead-8386434 copy-square.jpg
 
 ### ECREA Philosophy of Communication Section Pre-conference
 
+Register here to get a zoom link: [Google Forms](https://forms.gle/EnFbRLEA5t94eAiaA)
+
 
 Philosophy is perhaps the most reflective of all academic disciplines. Philosophers keep asking questions not only about the world, our knowledge of it or the ways we act or should act in it. Rather, the question what philosophy is and what is its place in the world is also a very important philosophical question by itself.
 In this one-day event we do not aim at the presentation of mature research, but rather at reflections regarding the state of the philosophy of communications. 
@@ -35,7 +37,7 @@ These 3 one hour and a half sessions will all start with brief formal discussion
 10.30 **Reception** and opening words
 
 
-1.       **Philosophy in institutions, philosophy of institutions** — 10.40 – 12.10 CET
+I.       **Philosophy in institutions, philosophy of institutions** — 10.40 – 12.10 CET
 
 
 Discussion openers: 
@@ -50,7 +52,7 @@ Discussion openers:
 11.20 - 12.10. Debate
 
 
-2.       **In Search for the Fields of Impact** — 13.30 – 15.00 CET
+II.       **In Search for the Fields of Impact** — 13.30 – 15.00 CET
 
 
 Discussion openers: 
@@ -62,25 +64,25 @@ Discussion openers:
 13.50 - 14.10. Manuel Bogalheiro, CICANT. “Communication beyond representation and the epistemology of the non-human turn”
 
 
-14.10 – 15.00. Debate
+14.10 - 15.00. Debate
 
 
-3.      **Philosophy of Communication beyond the “parent disciplines”** — 15.15 – 16.45 CET 
+III.      **Philosophy of Communication beyond the “parent disciplines”** — 15.15 – 16.45 CET 
 
 
 Discussion openers:
 
 
-15.15 – 15.35. José Gomes Pinto, CICANT. “Rhetorics and Communication: is there any cross possibilities?”
+15.15 - 15.35. José Gomes Pinto, CICANT. “Rhetorics and Communication: is there any cross possibilities?”
 
 
-15.35 – 15.55. Johan Siebers, Middlesex University. “Philosophy of Communication. Rhetoric, Linguistics”
+15.35 - 15.55. Johan Siebers, Middlesex University. “Philosophy of Communication. Rhetoric, Linguistics”
 
 
-15.55 – 16.45. Debate.
+15.55 - 16.45. Debate.
 
 
-16.45 — 17.00. Closing remarks and business matters
+16.45 - 17.00. Closing remarks and business matters
 
 
 
