@@ -100,18 +100,18 @@ Discussion openers:
 
 
 
---
+---
 
 Register here to get a zoom link: [Google Forms](https://forms.gle/EnFbRLEA5t94eAiaA)
 
 
---
+---
 Event Zoom Address: To be sent by the end of Oct. 6th (or when provided)
 
 
---
+---
 Contact us at [joana.bicacro@ulusofona.pt](mailto:joana.bicacro@ulusofona.pt) or [manuel.bogalheiro@ulp.pt](mailto:manuel.bogalheiro@ulp.pt) 
 
 
---
+---
 Programme at: [https://tinyurl.com/philcom2022](https://tinyurl.com/philcom2022)
