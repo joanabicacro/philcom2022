@@ -2,9 +2,7 @@
 layout: post
 title: Schedule and Access
 subtitle: Register for zoom link
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [zoom, link, access, schedule, sessions]
+tags: [zoom, link, access, schedule, sessions, ecrea, philosophy, rethoric]
 comments: false
 ---
 
@@ -15,7 +13,7 @@ comments: false
 10.30 **Reception** and opening words
 
 
-1.       **Philosophy in institutions, philosophy of institutions** — 10.40 – 12.10 CET
+I.       **Philosophy in institutions, philosophy of institutions** — 10.40 – 12.10 CET
 
 
 Discussion openers: 
@@ -24,28 +22,28 @@ Discussion openers:
 10.40 – 11.00. Kęstas Kirtiklis, Vilnius University. “What counts as quality in philosophy (of communication)” 
 
 
-11.00 - 11.20. Barna Kovács, Sapientia Hungarian University of Transylvania. “Manipulation - mediation – meditation”
+11.00 – 11.20. Barna Kovács, Sapientia Hungarian University of Transylvania. “Manipulation - mediation – meditation”
 
 
-11.20 - 12.10. Debate
+11.20 – 12.10. Debate
 
 
-2.       **In Search for the Fields of Impact** — 13.30 – 15.00 CET
+II.       **In Search for the Fields of Impact** — 13.30 – 15.00 CET
 
 
 Discussion openers: 
 
 
-13.30 - 13.50. Peter Kastberg, Aalborg University. “Giving constitutive communication a gestalt: Modelling the Terra Firma of dialogical communication”
+13.30 – 13.50. Peter Kastberg, Aalborg University. “Giving constitutive communication a gestalt: Modelling the Terra Firma of dialogical communication”
 
 
-13.50 - 14.10. Manuel Bogalheiro, CICANT. “Communication beyond representation and the epistemology of the non-human turn”
+13.50 – 14.10. Manuel Bogalheiro, CICANT. “Communication beyond representation and the epistemology of the non-human turn”
 
 
 14.10 – 15.00. Debate
 
 
-3.      **Philosophy of Communication beyond the “parent disciplines”** — 15.15 – 16.45 CET 
+III.      **Philosophy of Communication beyond the “parent disciplines”** — 15.15 – 16.45 CET 
 
 
 Discussion openers:
@@ -60,7 +58,7 @@ Discussion openers:
 15.55 – 16.45. Debate.
 
 
-16.45 — 17.00. Closing remarks and business matters
+16.45 – 17.00. Closing remarks and business matters
 
 
 
