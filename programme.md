@@ -2,6 +2,9 @@
 layout: page
 title: Pre-conference 
 subtitle: ONLINE, OCTOBER 7TH, 2022
+cover-img: assets/img/pexels-tara-winstead-8386434 copy-square.jpg
+thumbnail-img: assets/img/pexels-tara-winstead-8386434 copy-square.jpg
+share-img: assets/img/pexels-tara-winstead-8386434 copy-square.jpg
 ---
 
 
@@ -112,3 +115,6 @@ Contact us at [joana.bicacro@ulusofona.pt](mailto:joana.bicacro@ulusofona.pt) or
 
 ---
 Programme at: [https://tinyurl.com/philcom2022](https://tinyurl.com/philcom2022)
+
+
+
