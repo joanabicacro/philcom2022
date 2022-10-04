@@ -58,7 +58,7 @@ Discussion openers:
 15.55 – 16.45. Debate.
 
 
-16.45 – 17.00. Closing remarks and business matters
+16.45 – 17.00. **Closing** remarks and business matters
 
 
 
