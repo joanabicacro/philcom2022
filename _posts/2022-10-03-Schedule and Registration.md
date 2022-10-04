@@ -72,7 +72,7 @@ Register here to get a zoom link: [Google Forms](https://forms.gle/EnFbRLEA5t94e
 
 
 ---
-Event Zoom Address: To be sent by the end of Oct. 6th (or when provided)
+Event Zoom Address: To be sent by the end of Oct. 6th
 
 
 ---
